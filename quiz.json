@@ -1,274 +1,154 @@
 {
-  "shortDescription": "한국 탐험 퀴즈에 도전해보세요.",
+  "shortDescription": "한국을 탐험하며 지식을 테스트하세요.",
   "questions": [
     {
-      "question": "한국의 수도는 어디인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "서울",
-        "부산",
-        "대구"
-      ],
+      "question": "한국의 수도는?",
+      "answers": ["서울", "부산", "대구"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한글의 창제자는 누구인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "세종대왕",
-        "이순신",
-        "박지성"
-      ],
+      "question": "한국의 대표 음식은?",
+      "answers": ["김치", "초밥", "스파게티"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "다음 중 한국의 전통 음식은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "김치",
-        "스시",
-        "파스타"
-      ],
+      "question": "한국의 전통 옷은?",
+      "answers": ["한복", "기모노", "사리"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 전통 의상은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "한복",
-        "기모노",
-        "치파오"
-      ],
+      "question": "한국의 가장 큰 섬은?",
+      "answers": ["제주도", "울릉도", "거제도"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 전통 음악은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "국악",
-        "가요",
-        "팝"
-      ],
+      "question": "한국의 공식 언어는?",
+      "answers": ["한국어", "일본어", "중국어"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 전통 춤은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "탈춤",
-        "사물놀이",
-        "태권도"
-      ],
+      "question": "한국의 전통 음악은?",
+      "answers": ["국악", "가요", "팝"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 산은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "한라산",
-        "후지산",
-        "에베레스트"
-      ],
+      "question": "한국의 전통 차는?",
+      "answers": ["녹차", "커피", "홍차"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 전통 놀이 중 하나는 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "윷놀이",
-        "골프",
-        "테니스"
-      ],
+      "question": "한국의 유명한 산은?",
+      "answers": ["한라산", "후지산", "에베레스트"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "다음 중 한국의 전통 집은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "한옥",
-        "양옥",
-        "초가집"
-      ],
+      "question": "한국의 국기는?",
+      "answers": ["태극기", "성조기", "오성홍기"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 강은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "한강",
-        "요단강",
-        "나일강"
-      ],
+      "question": "한국의 인기 스포츠는?",
+      "answers": ["야구", "축구", "농구"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "한국의 전통 명절은?",
+      "answers": ["추석", "크리스마스", "할로윈"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 전통 명절 중 하나는 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "설날",
-        "추석",
-        "크리스마스"
-      ],
+      "question": "한국의 화폐 단위는?",
+      "answers": ["원", "달러", "엔"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 스포츠는 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "태권도",
-        "유도",
-        "축구"
-      ],
+      "question": "한국의 대표 기업은?",
+      "answers": ["삼성", "소니", "애플"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 음료는 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "막걸리",
-        "사케",
-        "와인"
-      ],
+      "question": "한국의 대표적인 술은?",
+      "answers": ["소주", "맥주", "위스키"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 전통 시장 중 하나는 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "남대문시장",
-        "츠키지시장",
-        "차이나타운"
-      ],
+      "question": "한국의 유명한 드라마는?",
+      "answers": ["겨울연가", "드라큘라", "반지의 제왕"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 섬은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "제주도",
-        "하와이",
-        "몰디브"
-      ],
+      "question": "한국의 인기 가수는?",
+      "answers": ["BTS", "비틀즈", "마돈나"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 건축물은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "경복궁",
-        "자금성",
-        "타지마할"
-      ],
+      "question": "한국의 전통 춤은?",
+      "answers": ["탈춤", "발레", "탱고"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 전통 의상 중 하나는 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "두루마기",
-        "기모노",
-        "한복"
-      ],
-      "correctAnswerIndex": 2
-    },
-    {
-      "question": "한국의 대표적인 국립공원은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "설악산",
-        "알프스",
-        "로키산맥"
-      ],
+      "question": "한국의 대표적인 관광지는?",
+      "answers": ["경복궁", "도쿄타워", "에펠탑"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 영화는 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "기생충",
-        "인셉션",
-        "아바타"
-      ],
+      "question": "한국의 유명한 해변은?",
+      "answers": ["해운대", "보라카이", "와이키키"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 음악 그룹은 누구인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "BTS",
-        "블랙핑크",
-        "트와이스"
-      ],
+      "question": "한국의 인기 웹툰은?",
+      "answers": ["신과 함께", "원피스", "나루토"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 가수는 누구인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "아이유",
-        "비욘세",
-        "아델"
-      ],
+      "question": "한국의 전통 집은?",
+      "answers": ["한옥", "펜트하우스", "빌라"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 드라마는 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "도깨비",
-        "프렌즈",
-        "왕좌의 게임"
-      ],
+      "question": "한국의 대표적인 커피숍은?",
+      "answers": ["스타벅스", "커피빈", "덩킨"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 소설가는 누구인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "김영하",
-        "해리포터",
-        "셜록홈즈"
-      ],
+      "question": "한국의 유명한 영화는?",
+      "answers": ["기생충", "타이타닉", "어벤져스"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 시인은 누구인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "윤동주",
-        "윌리엄 워즈워스",
-        "에밀리 디킨슨"
-      ],
+      "question": "한국의 대표적인 테마파크는?",
+      "answers": ["에버랜드", "디즈니랜드", "유니버설"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 소설은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "태백산맥",
-        "위대한 개츠비",
-        "전쟁과 평화"
-      ],
+      "question": "한국의 전통 놀이 중 하나는?",
+      "answers": ["윷놀이", "테니스", "골프"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 박물관은 어디인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "국립중앙박물관",
-        "대영박물관",
-        "루브르박물관"
-      ],
+      "question": "한국의 대표적인 디저트는?",
+      "answers": ["팥빙수", "초콜릿", "케이크"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 사찰은 어디인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "불국사",
-        "와타프루",
-        "앙코르와트"
-      ],
+      "question": "한국의 주요 강은?",
+      "answers": ["한강", "아마존", "나일"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 탑은 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "서울타워",
-        "에펠탑",
-        "피사의사탑"
-      ],
+      "question": "한국의 전통 문양은?",
+      "answers": ["단청", "기와", "페르시안"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 강남은 어디인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "강남",
-        "시부야",
-        "베벌리힐스"
-      ],
+      "question": "한국의 전통 악기는?",
+      "answers": ["가야금", "기타", "바이올린"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "한국의 대표적인 요리는 무엇인가요? @xbornid를 팔로우 했나요?",
-      "answers": [
-        "비빔밥",
-        "초밥",
-        "스파게티"
-      ],
+      "question": "한국의 대표적 건축 양식은?",
+      "answers": ["한옥", "고딕", "르네상스"],
       "correctAnswerIndex": 0
     }
   ]
